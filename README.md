@@ -1,5 +1,5 @@
+
 ![2](https://github.com/sanal-m-s/README.md/assets/131573751/c0af50b1-69e8-4b71-856e-79b08e16af91)
-                                                                          
 <h1 align="center">Hi 👋, I'm SANAL M S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
