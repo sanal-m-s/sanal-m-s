@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanal-m-s" alt="sanal-m-s" /></a> </p>
 
-![2](https://github.com/sanal-m-s/README.md/https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1-ayXnh_fC40SD0On6U734&ust=1714714867252000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCX0fmg7oUDFQAAAAAdAAAAABAE)
-
 - 🔭 I’m currently working on **studying masters in computer application**
 
 - 🌱 I’m currently learning **android studio**
