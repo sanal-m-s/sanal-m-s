@@ -1,11 +1,11 @@
-
-![2](https://github.com/sanal-m-s/README.md/assets/131573751/c0af50b1-69e8-4b71-856e-79b08e16af91)
 <h1 align="center">Hi 👋, I'm SANAL M S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanal-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="sanal-m-s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanal-m-s" alt="sanal-m-s" /></a> </p>
+
+![2](https://github.com/sanal-m-s/README.md/https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1-ayXnh_fC40SD0On6U734&ust=1714714867252000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCX0fmg7oUDFQAAAAAdAAAAABAE)
 
 - 🔭 I’m currently working on **studying masters in computer application**
 
