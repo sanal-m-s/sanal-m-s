@@ -11,7 +11,6 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2
-
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
