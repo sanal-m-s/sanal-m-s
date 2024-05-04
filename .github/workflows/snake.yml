@@ -1,5 +1,4 @@
 name: Generate Snake Animation
-
 on:
   schedule: 
     - cron: '0 0 * * *'  # Runs every day at midnight
