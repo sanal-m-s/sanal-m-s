@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanal-m-s" alt="sanal-m-s" /></a> </p> 
 
-- 🔭 I’m currently working on **studying masters in computer application**
+- 🔭 I’m currently studying on **masters in computer application**
 
 - 🌱 I’m currently learning **android studio**
 
