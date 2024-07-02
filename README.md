@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanal-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="sanal-m-s" /> </p>
-<p align="center">Visit my portfolio website (https://your-portfolio-url.com) to see more!</p>
+<p align="center">Visit my portfolio website <a href="https://instagram.com/__.sanal.__" target="blank"> to see more!</p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
