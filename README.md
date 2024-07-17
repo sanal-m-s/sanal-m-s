@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SANAL M S</h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanal-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="sanal-m-s" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanal-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="sanal-m-s" /> </p>
 <p align="center">Visit my  <a href="https://sanalms.vercel.app/" target="blank">portfolio websit</p>
 
 
