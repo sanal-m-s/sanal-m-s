@@ -1,8 +1,9 @@
 ### Hi there, I'm **Sanal M S**! 👋
 #### 🚀 Passionate Frontend Developer | 🎨 UI/UX Enthusiast | 🇮🇳 India
 
+<p align="center">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Tech+Enthusiast;Passionate+Coder)
-
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanal-m-s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://sanalms.vercel.app/" target="_blank">🌐 Portfolio Website</a>
@@ -54,7 +55,7 @@
 ---
 ### ☕ Buy Me a Coffee
 <p align="center">
-  <a href="https://www.buymeacoffee.com/sanalms" target="_blank">
+  <a href="https://buymeacoffee.com/sanal.m.s" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
