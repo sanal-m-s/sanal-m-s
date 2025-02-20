@@ -52,6 +52,14 @@
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212)
 
 ---
+### ☕ Buy Me a Coffee
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sanalms" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
+
+---
 ### 🏆 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanal-m-s&theme=radical" />
