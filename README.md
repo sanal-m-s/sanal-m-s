@@ -1,7 +1,7 @@
 ### Hi there, I'm **Sanal M S**! 👋
 #### 🚀 Passionate Frontend Developer | 🎨 UI/UX Enthusiast | 🇮🇳 India
 
-[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Tech+Enthusiast;Passionate+Coder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Tech+Enthusiast;Passionate+Coder)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanal-m-s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
