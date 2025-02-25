@@ -58,7 +58,7 @@
 
 ### 🏆 Fun Animations & Achievements ✨  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanal-m-s&column=6&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanal-m-s&column=6" />
 </p>  
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanal-m-s" />
