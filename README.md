@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanal-m-s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://sanalms.vercel.app/" target="_blank">
-    🌐 <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="16"/> Portfolio Website
+     <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="16"/> Portfolio Website
   </a>
 </p>  
 
