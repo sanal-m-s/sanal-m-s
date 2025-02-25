@@ -61,7 +61,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanal-m-s&column=6&theme=radical" />
 </p>  
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanal-m-s&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanal-m-s" />
 </p>  
 
 ---
